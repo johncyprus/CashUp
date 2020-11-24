@@ -1,7 +1,7 @@
 module.exports = {
 
-    user: 'zaid',
-    password: 'password',
+    user: 'root',
+    password: '1234',
     host: 'localhost',
     database: 'cashup'
 };
